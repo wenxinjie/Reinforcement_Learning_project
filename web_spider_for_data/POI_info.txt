@@ -16,6 +16,7 @@ webpage:https://travel.qunar.com/p-oi7469087-gubeishuizhen
 
 3spot:八达岭长城
 lat:40.364229
+long:116.016033
 score:4.6
 suggested_time:建议游玩时间：3小时 - 5小时
 address:北京市延庆县军都山关沟古道北口
